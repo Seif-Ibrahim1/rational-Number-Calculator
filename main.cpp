@@ -1,7 +1,7 @@
+// Author: Seif Ibrahim Ramadan
 // Program Name: ratonalNumberCalculator.cpp
 // Program Description: take two rational numbers from the user and get the sum, subtraction, divison or multiplication of them as the user typed 
 // Last Modification Date: 23/03/2022
-// Author: Seif Ibrahim Ramadan
 // Purpose: calculate mathmatic operations with rational numbers
 
 #include <iostream>
